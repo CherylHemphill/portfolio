@@ -1,8 +1,7 @@
-
-  @import url('https://fonts.googleapis.com/css2?family=Lato:ital@1&family=Quattrocento&display=swap');
+ @import url('https://fonts.googleapis.com/css2?family=Lato:ital@1&family=Quattrocento&display=swap');
 
 :root {
-  --background: #defff2;
+  --bright: #defff2;
   --secondary-dark: #464f51;
   --dark: #000009;
   --light: #a599b5;
@@ -11,8 +10,8 @@
 
 * {
   font-family: 'Lato', sans-serif, 'Quattrocento', serif;
-  background: var(--dark);
-  color: var(--background);
+  background: var(--bright);
+  color: var(--dark);
 }
 
 .back-to-top-btn {
@@ -62,9 +61,13 @@
 }
 
 .card {
-  background-color: var(--secondary-dark);
-  border: var(--background);
+  background: var(--secondary-dark);
+  border: var(--bright);
   
 }
 
+.nav {
+  display: flex;
+  align-items: center;
+}
 

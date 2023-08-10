@@ -1,6 +1,4 @@
 import React from 'react';
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faCode, faGlobe } from '@fortawesome/free-solid-svg-icons'; 
 import textEditorImage from '../images/texteditor.png';
 import bookSpeakImage from '../images/bookspeak.png';
 import BackToTopButton from './BackToTopButton';
@@ -13,7 +11,7 @@ export default function Projects() {
     });
   };
   return (
-    <div>
+    <div id='projects'>
       <h1>Projects</h1>
       <div className="card mb-3" style={{ maxWidth: '540px' }}>
         <div className="row g-0">
@@ -26,10 +24,10 @@ export default function Projects() {
               <p className="card-text">Dive into a realm where literature comes alive as you connect with fellow bookworms in real-time discussions, sharing your passions and insights on cherished reads. </p>
               <p>
                 <a href="https://github.com/CherylHemphill/Book_Speak" className="card-link">
-                  <FontAwesomeIcon icon={faCode} size="xs" style={{ color: "#0ff4c6" }} />
+                <i class="bi bi-code-slash"></i>
                 </a>
                 <a href="https://bookspeakreview-69dfe59a4804.herokuapp.com/" className="card-link">
-                  <FontAwesomeIcon icon={faGlobe} style={{ color: "#0ff4c6" }} />
+                <i class="bi bi-display"></i>
                 </a>
               </p>
             </div>
@@ -47,10 +45,10 @@ export default function Projects() {
               <p className="card-text">Text editor empowers you to craft expressive notes and code snippets seamlessly, regardless of your internet connection.</p>
               <p>
                 <a href="https://github.com/CherylHemphill/Text-Editor" className="card-link">
-                  <FontAwesomeIcon icon={faCode} size="xs" style={{ color: "#0ff4c6" }} />
+                <i class="bi bi-code-slash"></i>
                 </a>
                 <a href="https://snippet-editor-c34410eeb2c1.herokuapp.com/" className="card-link">
-                  <FontAwesomeIcon icon={faGlobe} style={{ color: "#0ff4c6" }} />
+                <i class="bi bi-display"></i> 
                 </a>
               </p>
             </div>

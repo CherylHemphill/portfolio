@@ -1,12 +1,11 @@
 import React from 'react';
-import backgroundVideo from '../images/deepSpace.mp4'
+import video from '../video/'
 
 export default function Home() {
   return (
-    <div className="home-container">
+    <div className="home-container" id='home'>
       <video autoPlay muted loop className="background-video">
-        <source src={backgroundVideo} type="video/mp4" />
-        Your browser does not support the video tag.
+        <source src={video} type="video/mp4" />
       </video>
       <div className="text-overlay">
         <h1>Cheryl Hemphill</h1>
