@@ -26,10 +26,10 @@ export default function Nav({
                 <a href="#projects" onClick={() => scrollToSection('projects')} className={currentPage === 'Projects' ? 'nav-link active' : 'nav-link'}>Projects</a>
             </li>
             <li className='nav-item'>
-                <a href="#resume" onClick={openResumeInNewTab} className={currentPage === 'Resume' ? 'nav-link active' : 'nav-link'}>Resume</a>
+                <a href="#contact" onClick={() => scrollToSection('contact')} className={currentPage === 'Contact' ? 'nav-link active' : 'nav-link'}>Contact</a>
             </li>
             <li className='nav-item'>
-                <a href="#contact" onClick={() => scrollToSection('contact')} className={currentPage === 'Contact' ? 'nav-link active' : 'nav-link'}>Contact</a>
+                <a href="#resume" onClick={openResumeInNewTab} className={currentPage === 'Resume' ? 'nav-link active' : 'nav-link'}>Resume</a>
             </li>
         </ul>
     );

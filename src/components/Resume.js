@@ -2,7 +2,7 @@ import React from 'react';
 
 export default function Resume() {
     return (
-        <div className="container">
+        <div className="container" id='resume'>
             <h1>Cheryl Hemphill</h1>
             <p><a href="mailto:chemphill1208@gmail.com">chemphill1208@gmail.com</a> | 325.374.2597 | Luling, TX</p> 
             <p>LinkedIn: <a href="https://linkedin.com/in/cheryl-hemphill-a52307132">Cheryl Hemphill</a></p>
