@@ -1,3 +1,7 @@
+video credit: <a target="_blank" href="http://www.videezy.com">Free Stock Videos by Videezy!</a>\
+<a href="http://www.videezy.com/">Free Stock Footage by Videezy.com</a>
+Photo by Emay: https://www.pexels.com/photo/silhouette-of-mountain-under-starry-night-11071293/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
