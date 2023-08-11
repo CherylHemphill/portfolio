@@ -1,6 +1,8 @@
-video credit: <a target="_blank" href="http://www.videezy.com">Free Stock Videos by Videezy!</a>\
+
 <a href="http://www.videezy.com/">Free Stock Footage by Videezy.com</a>
 Photo by Emay: https://www.pexels.com/photo/silhouette-of-mountain-under-starry-night-11071293/
+Photo by Felix Mittermeier: https://www.pexels.com/photo/blue-universe-956981/
+Photo by ​Ѩвѻҏ Ѫєљѩӡӄѻ҇в: https://www.pexels.com/photo/scenic-view-of-night-sky-1738402/
 
 # Getting Started with Create React App
 
