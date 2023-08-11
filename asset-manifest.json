@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.36b53cb1.css",
+    "main.js": "/portfolio/static/js/main.76773bf1.js",
+    "static/media/Blue_Spiral_galaxy.mp4": "/portfolio/static/media/Blue_Spiral_galaxy.a4295fde96f7c5ee071b.mp4",
+    "static/media/emay-nightSky.jpg": "/portfolio/static/media/emay-nightSky.f3b338b7cf9425624213.jpg",
+    "static/media/a-scenic.jpg": "/portfolio/static/media/a-scenic.289e1401cc17d827a190.jpg",
+    "static/media/felix-night.jpg": "/portfolio/static/media/felix-night.cf4d05344061b7ee9b05.jpg",
+    "static/media/BookSpeak.mp4": "/portfolio/static/media/BookSpeak.b7435e98a48ca61f3e92.mp4",
+    "static/media/WeatherForecast.mp4": "/portfolio/static/media/WeatherForecast.0b2844e59cf853df1a53.mp4",
+    "static/media/J.A.T.mp4": "/portfolio/static/media/J.A.T.4872298e833c9fcf4901.mp4",
+    "static/media/ProjectTracker.mp4": "/portfolio/static/media/ProjectTracker.299f65c04eee0df66a13.mp4",
+    "index.html": "/portfolio/index.html",
+    "main.36b53cb1.css.map": "/portfolio/static/css/main.36b53cb1.css.map",
+    "main.76773bf1.js.map": "/portfolio/static/js/main.76773bf1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.36b53cb1.css",
+    "static/js/main.76773bf1.js"
+  ]
+}
