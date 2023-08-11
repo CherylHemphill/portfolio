@@ -8,12 +8,7 @@
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
     "bootstrap": "^5.3.1",
-<<<<<<< HEAD
     "gh-pages": "^5.0.0",
-=======
-    "dotenv": "^16.3.1",
-    "express": "^4.18.2",
->>>>>>> 99a441c8f4a7f8166ddba82019b5d43e3402398b
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-icons": "^4.10.1",
