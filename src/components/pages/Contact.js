@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import axios from 'axios';
+import image from '../../images/felix-night.jpg'
 
 export default function Contact() {
   const [formData, setFormData] = useState({
@@ -7,6 +7,13 @@ export default function Contact() {
     email: '',
     message: ''
   });
+
+  const backgroundStyle = {
+    backgroundImage: `url(${image})`,
+    backgroundSize: 'cover',
+    backgroundRepeat: 'no-repeat',
+    height: '100vh',
+  };
 
   const handleInputChange = (event) => {
     const { name, value } = event.target;
@@ -16,21 +23,16 @@ export default function Contact() {
     }));
   };
 
-  const handleSubmit = async (event) => {
-    event.preventDefault();
-
-    try {
-      await axios.post('/api/contact', formData);
-      alert('Message sent successfully!');
-    } catch (error) {
-      console.error('Error sending message:', error);
-    }
+  const handleSubmit = (event) => {
+    alert('Message sent successfully!'); 
   };
 
   return (
-    <div className="contact-form">
+    <div className="contact-container" style={backgroundStyle}>
+      <div className="contact-form">
       <h2>Contact</h2>
-      <form onSubmit={handleSubmit}>
+      <form name="contact" method="POST" data-netlify="true" onSubmit={handleSubmit}>
+        <input type="hidden" name="form-name" value="contact" />
         <label htmlFor="name">Name</label>
         <input
           type="text"
@@ -62,9 +64,9 @@ export default function Contact() {
 
         <button type="submit">Submit</button>
       </form>
+      </div>
     </div>
   );
 }
-
 
 

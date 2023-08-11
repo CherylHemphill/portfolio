@@ -1,74 +1,48 @@
-video credit: <a target="_blank" href="http://www.videezy.com">Free Stock Videos by Videezy!</a>\
-<a href="http://www.videezy.com/">Free Stock Footage by Videezy.com</a>
+
+# Cheryl Hemphill Portfolio
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+## Description
+I am a frontend web developer that is proactively seeking  a full-stack web portfolio designed to showcase my skills, experiences, and projects as a software developer. Crafted with a blend of modern web technologies and creative design, this portfolio offers an engaging glimpse into my journey in the world of software development.
+
+## Features
+
+- **About Me**: Get to know my background, interests, and the technologies I am proficient in.
+- **Projects**: A curated selection of my work, demonstrating my ability in both front-end and back-end development.
+- **Contact Form**: A functional contact form that allows visitors to reach out to me directly.
+- **Responsive Design**: Seamlessly adapts to various screen sizes, ensuring a great viewing experience on different devices.
+
+## Technologies Used
+
+- **Front-end**: React, CSS, JavaScript, [Other Libraries/Frameworks]
+- **Back-end**: Node.js, Express, [Database Technology]
+- **Deployment**: Hosted on Netlify, providing a reliable and efficient experience.
+
+## Getting Started
+
+If you'd like to explore the code or even host a version of the portfolio yourself, follow the instructions below:
+
+1. Clone the repository
+2. Navigate to the project folder and run `npm install`
+3. Start the development server with `npm start`
+4. Visit `http://localhost:3000` in your browser
+
+## Contact
+
+Feel free to reach out if you have questions or if you want to collaborate on a project. You can find me on [LinkedIn](https://linkedin.com/in/cheryl-hemphill-a52307132), or through the contact form on the portfolio itself.
+
+
+## License
+
+This project is licensed under the [MIT](https://opensource.org/licenses/MIT) license. Click the badge above for more details.
+
+## Credits
+<a href="http://www.videezy.com/">Free Stock Footage by Videezy.com</a> 
+<br>
 Photo by Emay: https://www.pexels.com/photo/silhouette-of-mountain-under-starry-night-11071293/
+<br>
+Photo by Felix Mittermeier: https://www.pexels.com/photo/blue-universe-956981/ 
+<br>
+Photo by ​Ѩвѻҏ Ѫєљѩӡӄѻ҇в: https://www.pexels.com/photo/scenic-view-of-night-sky-1738402/
 
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)

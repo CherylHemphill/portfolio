@@ -1,8 +1,17 @@
 import React from 'react';
+import backgroundImage from '../../images/emay-nightSky.jpg'
 
 export default function Resume() {
+  const backgroundStyle = {
+    backgroundImage: `url(${backgroundImage})`,
+    backgroundSize: 'cover',
+    backgroundRepeat: 'no-repeat',
+  };
+  
+
     return (
-        <div className="container" id='resume'>
+      <div style={backgroundStyle}>
+        <div className="container-resume" id='resume'>
             <h1>Cheryl Hemphill</h1>
             <p><a href="mailto:chemphill1208@gmail.com">chemphill1208@gmail.com</a> | 325.374.2597 | Luling, TX</p> 
             <p>
@@ -53,6 +62,12 @@ export default function Resume() {
         <strong>University of Texas at Austin</strong>- Center of Professional Education<br />
         Full Stack Coding Bootcamp Certificate    |    Completion Date: August 31, 2023
       </p>
+      <div className="download-button">
+  <a href="https://drive.google.com/uc?export=download&id=1YwIriezwVrPkiU8kR0gVFYFTUu5vewB_" download>
+    Download Resume (PDF)
+  </a>
+</div>
+        </div>
         </div>
     );
 }
