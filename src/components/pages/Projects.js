@@ -1,10 +1,5 @@
 import React from 'react';
 import backgroundImage from '../../images/a-scenic.jpg'
-import JAT from '../../video/J.A.T.mp4';
-import BookSpeak from '../../video/BookSpeak.mp4';
-import projectTracker from '../../video/ProjectTracker.mp4';
-import Weather from '../../video/WeatherForecast.mp4';
-import FurryFriends from '../../video/FurryFriends.mp4';
 import { FaCode, FaLaptop } from 'react-icons/fa';
 import projectsData from './ProjectData';
 
