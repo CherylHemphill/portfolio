@@ -23,7 +23,7 @@ export default function Resume() {
          </span></p>
 
       <p>
-      For the past 14 years, I have been immersed in the dynamic world of the medical field. Recently, I embarked on an exciting career transition into web development. While delving into this new realm, I found a particular passion for backend development, relishing the challenges it presents. However, I am also well-equipped to handle full-stack applications, thanks to the comprehensive skills I've acquired throughout my learning process.
+      For the past 14 years, I have been immersed in the dynamic world of the medical field. Recently, I embarked on an exciting career transition into web development. While delving into this new realm, I found a passion for web development, relishing the challenges it presents. I am also well-equipped to handle full-stack applications, thanks to the comprehensive skills I've acquired throughout my learning process.
       </p>
 
       <h2>Technical Skills</h2>
